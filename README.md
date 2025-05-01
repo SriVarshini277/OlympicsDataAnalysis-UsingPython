@@ -39,11 +39,15 @@ Explore 120 years of Olympic Games data to uncover athlete and country performan
 
 📁 Project Structure
 olympics-data-analysis/
+
 ├── data/                # Raw and cleaned datasets
+
 ├── notebooks/           # Jupyter notebooks for EDA
+
 ├── visualizations/      # Generated charts and plots
-├── Olympics.html        # Final analysis report
+
 ├── README.md            # Project overview
+
 └── requirements.txt     # Python dependencies
 
 📊 Sample Insights
