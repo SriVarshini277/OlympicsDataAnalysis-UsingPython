@@ -49,10 +49,11 @@ olympics-data-analysis/
 📊 Sample Insights
 
 Male vs Female Participation over the years
-![image](https://github.com/user-attachments/assets/4095335d-51f9-434d-be8a-8b14648de46c)
+![Female_participation_Linegraph](https://github.com/user-attachments/assets/dc25cc2e-0b2d-4841-989b-14607ee99bb9)
+
 
 “USA has the highest total medal count”
-![image](https://github.com/user-attachments/assets/f5fc69ea-7c8f-44d1-a51f-1113b4ba545d)
+
 
 
 
