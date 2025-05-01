@@ -2,8 +2,6 @@ Explore 120 years of Olympic Games data to uncover athlete and country performan
 
 🏅 Olympics Data Analysis with Python
 
-Published: https://srivarshini277.github.io/OlympicsDataAnalysis-UsingPython/
-
 Jupyter Notebook: [Olympics.ipynb](notebook/Olympics.ipynb) 
 
   This project performs exploratory data analysis (EDA) on historical Olympic Games data using Python. The goal is to uncover patterns, trends, and insights about athletes, countries, and sports through data wrangling and interactive visualizations.
